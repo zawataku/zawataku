@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hello World!
+## GitHub Stats
+<p align="left">   
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=zawataku&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawataku&layout=compact&show_icons=true&theme=onedark" />
+</p>
+<br>
 
+## GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=zawataku&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **zawataku/zawataku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
