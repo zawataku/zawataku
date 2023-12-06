@@ -12,9 +12,9 @@
 | Repository Name                                                        | Summary |
 | ---------------------------------------------------------------------- | ------- |
 | [ざわたくのホームページ](https://github.com/zawataku/zawataku.github.io) | ホームページ兼ミニブログ |
-| [KITnav_Gaming](https://github.com/zawataku/KITnav_Gamnig)             | Chrome拡張機能シリーズ第1弾，7色に輝くKITナビ |
+| [KITnav_Gaming](https://github.com/zawataku/KITnav_Gaming)             | Chrome拡張機能シリーズ第1弾，7色に輝くKITナビ |
 | [KITPortal_Enterkey](https://github.com/zawataku/KITPortal_Enterkey)   | Chrome拡張機能シリーズ第2弾，エンターキー押下でログイン可能に |
-| [Hokutetsu_Game](https://github.com/zawataku/Hokutetsu_Game)           | スイカゲーム風の落ちものパズル，Unityで開発 |
+| [zawataku_framework](https://github.com/zawataku/zawataku_framework)   | 自作CSSフレームワーク |
 | [Halloween2023](https://github.com/zawataku/Halloween2023)             | ハロウィンにちなんで作ったジョークアプリ，使用言語はVBS |
 
 
