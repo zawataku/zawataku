@@ -1,19 +1,7 @@
-# Welcome to My GitHub!!
-
-ざわたくと申します→　[ホームページ](https://zawataku.github.io)
+# Welcome to My GitHub!
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,py,vscode,git,github)](https://skillicons.dev)
-
-## Products
-| Repository Name                                                        | Summary |
-| ---------------------------------------------------------------------- | ------- |
-| [ざわたくのホームページ](https://github.com/zawataku/zawataku.github.io) | ホームページ兼ミニブログ |
-| [KITnav_Gaming](https://github.com/zawataku/KITnav_Gaming)             | Chrome拡張機能シリーズ第1弾　7色に輝くKITナビ |
-| [KITPortal_Enterkey](https://github.com/zawataku/KITPortal_Enterkey)   | Chrome拡張機能シリーズ第2弾　エンターキー押下でログイン可能に |
-| [node_message_board](https://github.com/zawataku/node_message_board)   | 授業課題で作った掲示板　Next.js初挑戦 |
-| [Foodcreation.github.io](https://github.com/FoodCreation/FoodCreation.github.io)             | プロジェクトのホームページ　Next.jsで開発しGitHub ActionsでGitHub Pagesにデプロイ |
-
 
 ## GitHub Stats
 |*My Status*|*My Trophies*|
