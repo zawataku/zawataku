@@ -1,4 +1,4 @@
-# Welcome to My GitHub!
+<h1>Welcome to My GitHub!</h1>
 <table>
   <tr>
     <td colspan="2">
@@ -20,11 +20,14 @@
   </tr>
 </table>
 
-## Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp)](https://github.com/398noe)
-## Libraries
-[![Libraries](https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,prisma)](https://github.com/398noe)
-## Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,docker,figma,)](https://github.com/398noe)
-## Services
-[![Services](https://skillicons.dev/icons?i=github,vercel)](https://github.com/398noe)
+<h2>Languages</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp">
+
+<h2>Libraries</h2>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,prisma">
+
+<h2>Tools</h2>
+<img src="https://skillicons.dev/icons?i=vscode,docker,figma">
+
+<h2>Services</h2>
+<img src="https://skillicons.dev/icons?i=github,vercel">
