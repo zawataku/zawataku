@@ -1,9 +1,30 @@
 # Welcome to My GitHub!
+<table>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zawataku&theme=transparent">
+      </div>
+    </td>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=zawataku&count_private=true&show_icons=true&show_icons=true&rank_icon=github&theme=transparent&hide_border=true">
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawataku&layout=compact&langs_count=8&theme=transparent&hide_border=true">
+      </div>
+    </td>
+  </tr>
+</table>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,py,vscode,git,github)](https://skillicons.dev)
-
-## GitHub Stats
-|*My Status*|*My Trophies*|
-|:---:|:---:|
-|[![zawataku's github stats](https://github-readme-stats.vercel.app/api?username=zawataku&count_private=true&card_width=480)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zawataku&layout=compact&langs_count=8&card_width=480)](https://github.com/anuraghazra/github-readme-stats)|[![trophy](https://github-profile-trophy.vercel.app/?username=zawataku&theme=monokai&margin-w=20&margin-h=20&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)|
+## Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp)](https://github.com/398noe)
+## Libraries
+[![Libraries](https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,prisma)](https://github.com/398noe)
+## Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,docker,figma,)](https://github.com/398noe)
+## Services
+[![Services](https://skillicons.dev/icons?i=github,vercel)](https://github.com/398noe)
