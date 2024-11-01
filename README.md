@@ -1,4 +1,3 @@
-<h1>Welcome to My GitHub!</h1>
 <table>
   <tr>
     <td colspan="2">
@@ -19,15 +18,3 @@
     </td>
   </tr>
 </table>
-
-<h2>Languages</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp">
-
-<h2>Libraries</h2>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,prisma">
-
-<h2>Tools</h2>
-<img src="https://skillicons.dev/icons?i=vscode,docker,figma">
-
-<h2>Services</h2>
-<img src="https://skillicons.dev/icons?i=github,vercel">
